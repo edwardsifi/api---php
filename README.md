@@ -1,2 +1,2 @@
 # api - php
- una  pequeña peeo util api
+ una  pequeña pero util api
